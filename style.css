@@ -1,0 +1,24 @@
+#grid{
+    padding-top: 4em;
+    padding-left: 16em;
+    width: 900px;
+    height: 400px;
+    max-width: fit-content;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+
+#restart{
+    padding-top: 0em;
+    flex: content;
+    padding-left: 32em;
+    float: none;
+    display: flexbox;
+    flex-wrap: nowrap;
+}
+
+.refresh-button{
+    size: 4em;
+}
